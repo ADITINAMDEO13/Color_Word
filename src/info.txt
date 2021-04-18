@@ -1,0 +1,3 @@
+colours.js data pick=>state
+search ->onChange->searchState (data)
+onclick=>(setSearch(filtered data))
